@@ -1,4 +1,4 @@
-import {increase, getCount} from './counter.js'
+import { getCount} from './counter.js'
 
 increase();
 console.log(getCount());
